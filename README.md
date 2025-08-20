@@ -13,12 +13,19 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/syed-wasi-akbar-aab7b3201" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/.." target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
-<a href="mailto:syedwasiakbar@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://www.instagram.com/__wasi_shah?igsh=MW5hMnd3NmprNWJkOQ==" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" />
+</a>
+<a href="mailto:your.email@example.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+</a>
 </p>
+
 
 ---
 
@@ -244,5 +251,7 @@ Google Prompting       ███████████████████
 | **🏆 Certificates** | [![Google](https://img.shields.io/badge/-Google_UX-4285F4?style=flat&logo=google&logoColor=white)](https://www.credly.com) [![Udemy](https://img.shields.io/badge/-Udemy_Full_Stack-EC5252?style=flat&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-57547e6e-9668-4c00-bf19-40902480d65c/) [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white)](https://www.udemy.com/course/react-native-tutorial/) [![AI Prompting](https://img.shields.io/badge/-Google_Prompting-34A853?style=flat&logo=google&logoColor=white)](https://www.credly.com) |
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+
+
 </div>
