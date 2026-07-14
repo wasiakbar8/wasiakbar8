@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:61DAFB&height=220&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=React%20Native%20Frontend%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:61DAFB,100:F7DF1E&height=250&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Frontend%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer+%F0%9F%93%B1;JavaScript+%26+TypeScript+Enthusiast+%E2%9A%A1;Building+Smooth%2C+Scalable+Apps+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=600&height=45&color=61DAFB&vCenter=true&size=24&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer+%F0%9F%93%B1;JavaScript+%26+TypeScript+Enthusiast+%E2%9A%A1;Building+Smooth%2C+Scalable+Apps+%F0%9F%9A%80;Freelance+Web+%26+Mobile+Developer+%F0%9F%92%BC;Always+Learning%2C+Always+Building+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=24&pause=1200" />
 </a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
@@ -12,14 +16,38 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I specialize in **React Native** for building modern, scalable, and user-friendly mobile apps
-- 🌱 Currently sharpening my skills in **Advanced React Native, APIs, and UI/UX Design**
-- 🎯 My goal is to craft **apps that make life easier** with smooth, delightful user experiences
-- 💬 Ask me about **React Native, JavaScript, Tailwind CSS & Frontend Development**
-- 📫 Reach me at **syedwasiakbar@gmail.com**
-- ⚡ Fun fact: *Coding + Creativity = my happy place* 😃
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<br/>
+💻 &nbsp;I specialize in **React Native** for building modern, scalable, user-friendly mobile apps
+<br/><br/>
+🌱 &nbsp;Currently sharpening my skills in **Advanced React Native, APIs, and UI/UX Design**
+<br/><br/>
+🎯 &nbsp;My goal is to craft **apps that make life easier** with smooth, delightful user experiences
+<br/><br/>
+💬 &nbsp;Ask me about **React Native, JavaScript, Tailwind CSS & Frontend Development**
+<br/><br/>
+📫 &nbsp;Reach me at **syedwasiakbar@gmail.com**
+<br/><br/>
+⚡ &nbsp;Fun fact: *Coding + Creativity = my happy place* 😃
+
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Currently Building](https://img.shields.io/badge/Currently%20Building-Mobile%20%26%20Web%20Apps-38B2AC?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open%20To-Freelance%20%26%20Full--Time-61DAFB?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Okara%2C%20Pakistan-F7DF1E?style=for-the-badge&logoColor=black)
+
+</div>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -39,9 +67,15 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,cpp,firebase,figma,ps&theme=dark" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,py,cpp,firebase,nodejs,figma,ps,git,vscode&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+</div>
 
 ---
 
@@ -57,6 +91,57 @@
 ![Figma](https://progress-bar.xyz/70/?title=Figma&width=250&color=f24e1e)
 ![Photoshop](https://progress-bar.xyz/65/?title=Photoshop&width=250&color=31a8ff)
 
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ Cafe Janoshi**
+<br/>
+Luxury restaurant website — multi-page React app with smooth page transitions
+<br/>
+`React` `Vite` `React Router` `Tailwind CSS` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 PixelCraft Studio**
+<br/>
+My freelance agency site — multi-page React build with EmailJS contact form & WhatsApp integration
+<br/>
+`React` `EmailJS` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**♻️ EcoLens**
+<br/>
+AI-powered waste classification mobile app using Gemini 2.0 Flash
+<br/>
+`React Native` `Expo Router` `Firebase` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Student Record Management System**
+<br/>
+Full-stack app with admin, faculty & student roles for managing academic records
+<br/>
+`React` `Node.js` `Express` `Sequelize` `SQLite`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>📌 Pin these repos on your profile so they show up as cards right below this section!</sub>
 </div>
 
 ---
@@ -112,12 +197,20 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <div align="center">
@@ -138,8 +231,18 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=61dafb&style=flat-square&label=Profile+Views)
+### 💭 Random Dev Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:38B2AC&height=120&section=footer" width="100%"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=61dafb&style=for-the-badge&label=Profile+Views)
+
+<br/><br/>
+
+**Thanks for stopping by — let's build something great together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:61DAFB,100:38B2AC&height=150&section=footer" width="100%"/>
 
 </div>
