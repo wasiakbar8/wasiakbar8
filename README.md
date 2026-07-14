@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:61DAFB,100:F7DF1E&height=250&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Frontend%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/wasiakbar8">
   <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer+%F0%9F%93%B1;JavaScript+%26+TypeScript+Enthusiast+%E2%9A%A1;Building+Smooth%2C+Scalable+Apps+%F0%9F%9A%80;Freelance+Web+%26+Mobile+Developer+%F0%9F%92%BC;Always+Learning%2C+Always+Building+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=24&pause=1200" />
 </a>
 
@@ -201,20 +201,20 @@ Full-stack app with admin, faculty & student roles for managing academic records
 </div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wasiakbar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiakbar8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=wasiakbar8&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasiakbar8&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=wasiakbar8&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -222,7 +222,7 @@ Full-stack app with admin, faculty & student roles for managing academic records
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/wasiakbar8/wasiakbar8/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <sub align="center">👆 To enable this animated snake, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a repo named exactly like your username.</sub>
@@ -237,7 +237,7 @@ Full-stack app with admin, faculty & student roles for managing academic records
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=61dafb&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=wasiakbar8&color=61dafb&style=for-the-badge&label=Profile+Views)
 
 <br/><br/>
 
