@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,50:61DAFB,100:F7DF1E&height=250&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=React%20Native%20Frontend%20Developer%20%7C%20JavaScript%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:3B82F6,70:06B6D4,100:8B5CF6&height=280&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Node.js%20%7C%20Mobile%20%2B%20Web&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="https://github.com/wasiakbar8">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+Native+Developer+%F0%9F%93%B1;JavaScript+%26+TypeScript+Enthusiast+%E2%9A%A1;Building+Smooth%2C+Scalable+Apps+%F0%9F%9A%80;Freelance+Web+%26+Mobile+Developer+%F0%9F%92%BC;Always+Learning%2C+Always+Building+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=24&pause=1200" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript+%E2%9A%A1;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1;Freelance+%26+Open+to+Full-Time+%F0%9F%92%BC;Always+Learning%2C+Always+Shipping+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=680&height=50&color=38BDF8&vCenter=true&size=22&pause=1400" />
 </a>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480">
 
 </div>
 
@@ -18,22 +18,22 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-💻 &nbsp;I specialize in **React Native** for building modern, scalable, user-friendly mobile apps
+💻 &nbsp;I'm a **Full Stack Developer** passionate about building modern, scalable, and delightful products — from beautiful UIs to robust backends.
 <br/><br/>
-🌱 &nbsp;Currently sharpening my skills in **Advanced React Native, APIs, and UI/UX Design**
+🌱 &nbsp;Currently leveling up in **Advanced React / React Native, Node.js, APIs, System Design & UI/UX**
 <br/><br/>
-🎯 &nbsp;My goal is to craft **apps that make life easier** with smooth, delightful user experiences
+🎯 &nbsp;My goal is to craft **apps that feel fast, look polished, and actually solve real problems**
 <br/><br/>
-💬 &nbsp;Ask me about **React Native, JavaScript, Tailwind CSS & Frontend Development**
+💬 &nbsp;Ask me about **React, React Native, Node.js, TypeScript, Tailwind CSS, Firebase & Full Stack Architecture**
 <br/><br/>
 📫 &nbsp;Reach me at **syedwasiakbar@gmail.com**
 <br/><br/>
-⚡ &nbsp;Fun fact: *Coding + Creativity = my happy place* 😃
+⚡ &nbsp;Fun fact: *Coding + Design + Problem Solving = my happy place* 🚀
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%">
 </td>
 </tr>
@@ -41,9 +41,9 @@
 
 <div align="center">
 
-![Currently Building](https://img.shields.io/badge/Currently%20Building-Mobile%20%26%20Web%20Apps-38B2AC?style=for-the-badge)
-![Open To](https://img.shields.io/badge/Open%20To-Freelance%20%26%20Full--Time-61DAFB?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20in-Okara%2C%20Pakistan-F7DF1E?style=for-the-badge&logoColor=black)
+![Currently Building](https://img.shields.io/badge/Currently%20Building-Full%20Stack%20Apps-0EA5E9?style=for-the-badge)
+![Open To](https://img.shields.io/badge/Open%20To-Freelance%20%26%20Full--Time-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Okara%2C%20Pakistan-F59E0B?style=for-the-badge&logoColor=black)
 
 </div>
 
@@ -53,13 +53,16 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/__wasi_shah?igsh=MW5hMnd3NmprNWJkOQ==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:syedwasiakbar@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/wasiakbar8" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -67,8 +70,28 @@
 
 ### 🛠️ Tech Stack & Tools
 
+#### Frontend
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,py,cpp,firebase,nodejs,figma,ps,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
+</div>
+
+#### Backend & Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,py,sqlite,mongodb&theme=dark" />
+</div>
+
+#### Mobile
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</div>
+
+#### Tools & Design
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,postman&theme=dark" />
 </div>
 
 <br/>
@@ -83,13 +106,19 @@
 
 <div align="center">
 
-![HTML](https://progress-bar.xyz/95/?title=HTML&width=250&color=e34f26)
-![CSS](https://progress-bar.xyz/90/?title=CSS&width=250&color=1572b6)
-![JavaScript](https://progress-bar.xyz/90/?title=JavaScript&width=250&color=f7df1e)
-![React%20Native](https://progress-bar.xyz/85/?title=React+Native&width=250&color=61dafb)
-![Tailwind](https://progress-bar.xyz/85/?title=Tailwind+CSS&width=250&color=38b2ac)
-![Figma](https://progress-bar.xyz/70/?title=Figma&width=250&color=f24e1e)
-![Photoshop](https://progress-bar.xyz/65/?title=Photoshop&width=250&color=31a8ff)
+![HTML](https://progress-bar.xyz/95/?title=HTML&width=260&color=e34f26)
+![CSS](https://progress-bar.xyz/92/?title=CSS&width=260&color=1572b6)
+![JavaScript](https://progress-bar.xyz/92/?title=JavaScript&width=260&color=f7df1e)
+![TypeScript](https://progress-bar.xyz/85/?title=TypeScript&width=260&color=3178c6)
+![React](https://progress-bar.xyz/90/?title=React&width=260&color=61dafb)
+![React Native](https://progress-bar.xyz/88/?title=React+Native&width=260&color=61dafb)
+![Node.js](https://progress-bar.xyz/85/?title=Node.js&width=260&color=339933)
+![Express](https://progress-bar.xyz/82/?title=Express&width=260&color=000000)
+![Tailwind CSS](https://progress-bar.xyz/90/?title=Tailwind+CSS&width=260&color=38b2ac)
+![Firebase](https://progress-bar.xyz/80/?title=Firebase&width=260&color=ffca28)
+![Python](https://progress-bar.xyz/75/?title=Python&width=260&color=3776ab)
+![Figma](https://progress-bar.xyz/72/?title=Figma&width=260&color=f24e1e)
+![Photoshop](https://progress-bar.xyz/68/?title=Photoshop&width=260&color=31a8ff)
 
 </div>
 
@@ -103,8 +132,8 @@
 
 **🍽️ Cafe Janoshi**
 <br/>
-Luxury restaurant website — multi-page React app with smooth page transitions
-<br/>
+Luxury multi-page restaurant website with smooth page transitions and modern UI
+<br/><br/>
 `React` `Vite` `React Router` `Tailwind CSS` `Framer Motion`
 
 </td>
@@ -112,9 +141,9 @@ Luxury restaurant website — multi-page React app with smooth page transitions
 
 **🎨 PixelCraft Studio**
 <br/>
-My freelance agency site — multi-page React build with EmailJS contact form & WhatsApp integration
-<br/>
-`React` `EmailJS` `Tailwind CSS`
+Freelance agency website with contact form (EmailJS) + WhatsApp integration
+<br/><br/>
+`React` `EmailJS` `Tailwind CSS` `Responsive Design`
 
 </td>
 </tr>
@@ -124,7 +153,7 @@ My freelance agency site — multi-page React build with EmailJS contact form & 
 **♻️ EcoLens**
 <br/>
 AI-powered waste classification mobile app using Gemini 2.0 Flash
-<br/>
+<br/><br/>
 `React Native` `Expo Router` `Firebase` `Gemini API`
 
 </td>
@@ -132,8 +161,8 @@ AI-powered waste classification mobile app using Gemini 2.0 Flash
 
 **🎓 Student Record Management System**
 <br/>
-Full-stack app with admin, faculty & student roles for managing academic records
-<br/>
+Full-stack academic system with Admin, Faculty & Student roles
+<br/><br/>
 `React` `Node.js` `Express` `Sequelize` `SQLite`
 
 </td>
@@ -141,7 +170,7 @@ Full-stack app with admin, faculty & student roles for managing academic records
 </table>
 
 <div align="center">
-<sub>📌 Pin these repos on your profile so they show up as cards right below this section!</sub>
+<sub>📌 Pin these repositories on your GitHub profile so they appear as project cards right below this section!</sub>
 </div>
 
 ---
@@ -184,11 +213,11 @@ Full-stack app with admin, faculty & student roles for managing academic records
 <br>
 
 | Certificate | Issuer | Platform | Skills Covered |
-|-------------|--------|----------|----------------|
+| :--- | :--- | :--- | :--- |
 | 🎓 **[Google UX Design Professional Certificate (v2)](https://www.credly.com)** | Google | Credly | UI/UX Design, Figma, Prototyping, User Research |
 | 🎓 **[Full Stack Development](https://www.udemy.com/certificate/UC-57547e6e-9668-4c00-bf19-40902480d65c/)** | Udemy | Udemy | JavaScript, CSS3, Python Programming |
 | 🎓 **[React Native Complete Course](https://www.udemy.com/course/react-native-tutorial/learn/lecture/32476494?start=1#learning-tools)** | Udemy | Udemy | React Native, Mobile Development, Cross-platform Apps |
-| 🎓 **[Google Prompting Essentials](https://www.credly.com)** | Google | Credly | AI Prompting, Machine Learning, Prompt Engineering |
+| 🎓 **[Google Prompting Essentials](https://www.credly.com)** | Google | Credly | AI Prompting, Prompt Engineering |
 
 </details>
 
@@ -201,17 +230,23 @@ Full-stack app with admin, faculty & student roles for managing academic records
 </div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wasiakbar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiakbar8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wasiakbar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasiakbar8&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=wasiakbar8&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=wasiakbar8&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
+
+<br/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasiakbar8&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
+
+<br/>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=wasiakbar8&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -225,7 +260,7 @@ Full-stack app with admin, faculty & student roles for managing academic records
 <img src="https://raw.githubusercontent.com/wasiakbar8/wasiakbar8/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<sub align="center">👆 To enable this animated snake, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a repo named exactly like your username.</sub>
+<sub align="center">👆 To enable the animated snake, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a repository named exactly like your username.</sub>
 
 ---
 
@@ -237,12 +272,12 @@ Full-stack app with admin, faculty & student roles for managing academic records
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=wasiakbar8&color=61dafb&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=wasiakbar8&color=38bdf8&style=for-the-badge&label=Profile+Views)
 
 <br/><br/>
 
 **Thanks for stopping by — let's build something great together! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,50:61DAFB,100:38B2AC&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:06B6D4,100:0F172A&height=160&section=footer" width="100%"/>
 
 </div>
