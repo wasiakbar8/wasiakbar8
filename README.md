@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:3B82F6,70:06B6D4,100:8B5CF6&height=280&section=header&text=Hi%20There,%20I'm%20Wasi%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Node.js%20%7C%20Mobile%20%2B%20Web&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:3B82F6,70:06B6D4,100:8B5CF6&height=280&section=header&text=Hi%20There,%20I%27m%20Wasi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling" />
+
+<h1 align="center">Hi There, I'm Wasi 👋</h1>
 
 <a href="https://github.com/wasiakbar8">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript+%E2%9A%A1;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1;Freelance+%26+Open+to+Full-Time+%F0%9F%92%BC;Always+Learning%2C+Always+Shipping+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=680&height=50&color=38BDF8&vCenter=true&size=22&pause=1400" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript+%E2%9A%A1;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1;Freelance+%26+Open+to+Opportunities+%E2%9C%85%EF%B8%8F;Let's+Build+Something+Amazing+%F0%9F%9A%80&center=true&width=900&height=60&color=38bdf8&vCenter=true&size=24&font=Fira+Code&duration=4000&pause=1000" />
 </a>
 
 <br/>
@@ -216,7 +218,7 @@ Full-stack academic system with Admin, Faculty & Student roles
 | :--- | :--- | :--- | :--- |
 | 🎓 **[Google UX Design Professional Certificate (v2)](https://www.credly.com)** | Google | Credly | UI/UX Design, Figma, Prototyping, User Research |
 | 🎓 **[Full Stack Development](https://www.udemy.com/certificate/UC-57547e6e-9668-4c00-bf19-40902480d65c/)** | Udemy | Udemy | JavaScript, CSS3, Python Programming |
-| 🎓 **[React Native Complete Course](https://www.udemy.com/course/react-native-tutorial/learn/lecture/32476494?start=1#learning-tools)** | Udemy | Udemy | React Native, Mobile Development, Cross-platform Apps |
+| 🎓 **[React Native Complete Course](https://www.udemy.com/course/react-native-tutorial/learn/lecture/32476494?start=1#learning-tools)** | Udemy | Udemy | React Native, Mobile Development, Cross-platform App Development |
 | 🎓 **[Google Prompting Essentials](https://www.credly.com)** | Google | Credly | AI Prompting, Prompt Engineering |
 
 </details>
